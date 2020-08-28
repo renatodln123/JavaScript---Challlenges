@@ -1,3 +1,16 @@
-var numbers = ["R", "E", "N"];
+var obj
 
-console.log(numbers.toString());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
