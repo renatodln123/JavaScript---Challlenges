@@ -1,9 +1,15 @@
-function Pessoa(nome) {
-    this.nome = nome;
-}
+(function(){
 
-var renato = new Pessoa("renato")
-console.log(renato)
+    var fName = "proparoxitona";
+
+    var newName = fName.indexOf("o")
+
+    console.log(newName);
+
+
+
+    
+}());
 
 
 
